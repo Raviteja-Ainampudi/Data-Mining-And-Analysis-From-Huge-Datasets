@@ -20,12 +20,9 @@ Outcomes
 - The corresponding analysis for these graphs were depicted graphically.
 
 
-.............................................................................................................
-
 #Pro-Tips
 
 - Extract the tar data for input feed.
 - Analysis can also be done on each vistor requesting for traffic also.
 - These are output text files where the output is extracted using the JSON format. (Average_Size.txt,ComVsEduVsNet_Domain.txt,  Distinct_Clients.txt, Top10_Visited.txt, Total_Access_Number_Of_Each_Day.txt)
 - Further more analysis can be done and plots can be derived.
-
