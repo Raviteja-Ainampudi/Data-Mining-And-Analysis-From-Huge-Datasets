@@ -1,0 +1,3 @@
+.com websites: 	437862
+ .edu websites: 	144456
+ .net websites: 	141203

@@ -1,0 +1,16 @@
+edams.ksc.nasa.gov:	6530
+piweba4y.prodigy.com:	4846
+163.206.89.4:	4791
+piweba5y.prodigy.com:	4607
+piweba3y.prodigy.com:	4416
+www-d1.proxy.aol.com:	3889
+www-b2.proxy.aol.com:	3534
+www-b3.proxy.aol.com:	3463
+www-c5.proxy.aol.com:	3423
+www-b5.proxy.aol.com:	3411
+www-c2.proxy.aol.com:	3407
+www-d2.proxy.aol.com:	3404
+www-a2.proxy.aol.com:	3337
+news.ti.com:	3298
+www-d3.proxy.aol.com:	3296
+www-b4.proxy.aol.com:	3293
