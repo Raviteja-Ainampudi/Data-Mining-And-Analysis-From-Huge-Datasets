@@ -4,6 +4,7 @@
 - The useful data is extracted in the JSON format and saved into new text files for corresponding requirements.
 - Graphical Illustration is done in Pie charts and Bar graphs using the Pylab library.
 - Various parameters of HTTP responses were mined, analyzed, compared and portrayed graphically.
+- Coding done in Python.
 
 
 ====
