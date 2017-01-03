@@ -17,4 +17,5 @@ Outcomes
 - Top 15 visitors for this simulators data.
 - Distinct domains (.edu, .com and .net) which requsted HTTP data and their share in the whole traffic.
 - Distinct HTTP responses 200, 304 and 302. And their share in the whole responses sent out by this simulator.
+- The corresponding analysis for these graphs were depicted graphically.
 
